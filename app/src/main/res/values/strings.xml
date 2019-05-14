@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFridge&amp;I</string>
+    <string name="all_products">All products</string>
+    <string name="shopping_list">Shopping list</string>
+    <string name="settings">Settings</string>
+    <string name="fridge">fridge</string>
+    <string name="freezer">freezer</string>
+    <string name="spices">spices</string>
+    <string name="others">others</string>
+    <string name="add_new_category">ADD NEW CATEGORY</string>
+</resources>

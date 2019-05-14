@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/AmikoTextViewStyle</item>
+
+    </style>
+
+    <!-- Customize popup style. -->
+
+    <style name="CustomMenuStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+    <!-- Customize font style. -->
+
+    <style name="AmikoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/amiko_bold</item>
+
+    </style>
+
+</resources>

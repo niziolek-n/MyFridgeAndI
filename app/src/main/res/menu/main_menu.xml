@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nniziolek.myfridgeandi.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort_white_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_all_products"
+        android:title="@string/all_products"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_shopping_list"
+        android:title="@string/shopping_list"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+
+
+</menu>
